@@ -1,2 +1,2 @@
 # Coursea-Test
-Assignments for Coursea W
+Assignments for Coursea Web Development
