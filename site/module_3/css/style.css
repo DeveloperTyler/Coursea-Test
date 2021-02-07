@@ -1,4 +1,19 @@
 body{
 	font-size: 16px;
 	font-family: sans-serif;
+	color: #fff;
+	background-color: #d35400;
+}
+#header_nav{
+	background-color: #f1c40f
+
+}
+#header_nav a{
+	color: #d35400;
+	text-align: center;
+}
+.nav-item i{
+	position: relative;
+    top: -2px;
+    font-weight: bold;
 }
