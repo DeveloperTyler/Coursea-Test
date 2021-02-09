@@ -5,12 +5,18 @@ body{
 	background-color: #d35400;
 }
 #header_nav{
-	background-color: #f1c40f
-
+	background-color: #f1c40f;
+	padding-bottom: 0px: 
+}
+#header_nav.navbar{
+	
 }
 #header_nav a{
 	color: #d35400;
 	text-align: center;
+}
+.header_container{
+
 }
 .nav-item i{
 	position: relative;
